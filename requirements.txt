@@ -3,3 +3,6 @@ matplotlib
 pandas
 numpy
 scipy
+seaborn
+scikit-learn
+time
