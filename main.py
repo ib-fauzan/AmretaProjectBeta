@@ -7,7 +7,7 @@ from data_eligibility_testing import show_module01
 from probability_distribution_analysis import show_module02
 from feedback import show_feedback
 
-st.set_page_config(page_title="Amreta Project 0.1 (Beta)",
+st.set_page_config(page_title="Amreta Project v0.1 (Beta)",
                    page_icon="💧",
                    layout="wide",
                    initial_sidebar_state="expanded",
