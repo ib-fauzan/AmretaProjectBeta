@@ -1,5 +1,3 @@
 [theme]
 base="dark"
 textColor="#FFFFFF"
-[theme.sidebar]
-showWidgetBorder=True
