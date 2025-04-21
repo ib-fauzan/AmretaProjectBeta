@@ -16,6 +16,7 @@ st.set_page_config(page_title="Amreta Project v0.1 (Beta)",
                           'About': """
                             This tool is born, raised, and developed in Indonesia, to support water resources engineering processes. 
                             For more info, contact herlambang19@gmail.com for any inquiries or project collaboration.
+                            Story: https://medium.com/@herlambang19/hydrology-tools-from-indonesia-amreta-project-v0-1-beta-e95d32ae9545
                           """}
                    )
 st.markdown(
