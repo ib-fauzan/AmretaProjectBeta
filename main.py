@@ -8,7 +8,7 @@ from probability_distribution_analysis import show_module02
 from feedback import show_feedback
 
 st.set_page_config(page_title="Amreta Project v0.1 (Beta)",
-                   page_icon="💧",
+                   page_icon="amreta-project-concept.png",
                    layout="wide",
                    initial_sidebar_state="expanded",
                    menu_items={
