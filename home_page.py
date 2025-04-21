@@ -10,7 +10,7 @@ def show_home():
     col1, col2 = st.columns(2)
     with col1:
         st.subheader("🌀 What is Return Period?")
-        st.image("https://www.open.edu/openlearncreate/pluginfile.php/167901/mod_oucontent/oucontent/12418/64b5afe7/bd6423a5/m2_ss4_fig4.1.jpg", width=400,
+        st.image("https://www.open.edu/openlearncreate/pluginfile.php/167901/mod_oucontent/oucontent/12418/64b5afe7/bd6423a5/m2_ss4_fig4.1.jpg", width=300,
                  caption="Hydrology Cycle | Source: Open University")
         st.markdown('''
                     The Return Period (also known as the Recurrence Interval) is the estimated average time interval between rainfall events of a certain intensity or magnitude.
