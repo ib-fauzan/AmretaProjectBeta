@@ -45,7 +45,7 @@ def show_home():
                     5. Perform statistical tests to validate the data quality using:
                         - RAPS (Rescaled Adjusted Partial Sums)
                         - Trendlessness Test
-                        - Homogeneity Test (F-Test & t-Test)
+                        - Homogenity Test (F-Test & t-Test)
                         - Inlier-Outlier Test
                         - Chi-Square Test
                         - Smirnov-Kolmogorov Test
